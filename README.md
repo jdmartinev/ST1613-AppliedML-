@@ -1,7 +1,7 @@
-# Applied Machine Learning 
+# ST1613 - ST1631 Aprendizaje de máquina aplicado
 
-Repositorio del curso ST1613 - ST1631 Aprendizaje de Máquina Aplicado de la Universidad EAFIT
+Repositorio del curso ST1613 - ST1631 Aprendizaje de máquina aplicado de la Universidad EAFIT
 
-- [Week01 - Introducción al aprendizaje de máquina](/Week01%20-%20Intro/)
+- [Semana01 - Introducción al aprendizaje de máquina](/Week01%20-%20Intro/)
 
 
