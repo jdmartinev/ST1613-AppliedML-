@@ -1,10 +1,8 @@
 # Semana 1
 
-- Introducción a Machine Learning
-- Análisis exploratorio de datos
-- Introducción a numpy
-- Introducción a pandas
-- Creación del ambiente de python
-- Google colab y kaggle
-
+- Introducción a inteligencia artificial y aprendizaje de máquina
+- Tipos de aprendizaje de máquina
+- Diferencia entre aprendizaje de máquina y programación tradicional
+- Ciclo de vida de un proyecto de ML
+- Ejemplo práctico: Chrun prediction with $k-nn$
 
