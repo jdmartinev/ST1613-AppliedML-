@@ -1,9 +1,5 @@
-# Semana 1
+# Semana 2
 
-- Introducción a inteligencia artificial y aprendizaje de máquina
-- Tipos de aprendizaje de máquina
-- Diferencia entre aprendizaje de máquina y programación tradicional
-- Ciclo de vida de un proyecto de ML
-- Ejemplo práctico: Chrun prediction with $k-nn$
-- Ejemplo práctico: Piedra papel y tijera
-
+- Motivación para el preprocesamiento de datos
+- Técnicas comunes de preprocesamiento
+- `Pipelines` y `ColumnTransformers` en `scikit-learn`
