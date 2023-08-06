@@ -24,3 +24,4 @@ $$
 \textcolor{blue}{ \mathbb{E}_{\mathcal{D},y} \left[ (y - \hat{f}(\mathbf{x})) \right] } 
 $$
   
+das
