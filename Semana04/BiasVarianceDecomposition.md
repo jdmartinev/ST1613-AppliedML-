@@ -21,6 +21,6 @@ $$
 $$
 
 $$
-\mathbb{E}_{\mathcal{D},y} = 
+\textcolor{blue}{\mathbb{E}_{\mathcal{D},y}} {\left[ (y - f(x)) \right] 
 $$
   
