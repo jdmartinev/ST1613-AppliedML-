@@ -21,5 +21,5 @@ $$
 $$
 
 $$
-\mathbb{E}_{\mathcal{D},y} = \left{(y - \hat{f}_{\mathcal{D}})(\mathbf{x})^2 \right}
+\mathbb{E}_{\mathcal{D},y} = \left{ \left(y - \hat{f}_(y - \hat{f}(\mathbf{x}) \right) ^2 \right}
 $$
