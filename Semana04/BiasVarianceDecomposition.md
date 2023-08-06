@@ -17,7 +17,7 @@ El ruido no se puede reducir, mientras que el sesgo y la varianza se pueden cont
 Vamos a derivar la ecuación:
 
 $$
-\color{blue}{error(\mathbf{x})} = \color{purple}{bias(\mathbf{x})^2} + Var\left[\hat{f}_{\mathcal{D}}(\mathbf{x})\right]
+\textcolor{blue}{error(\mathbf{x})} = \color{purple}{bias(\mathbf{x})^2} + Var\left[\hat{f}_{\mathcal{D}}(\mathbf{x})\right]
 $$
 
 
