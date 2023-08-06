@@ -21,6 +21,6 @@ $$
 $$
 
 $$
-\textcolor{blue}{ \mathbb{E}_{\mathcal{D},y} [ (y - f(x)) ] } 
+\textcolor{blue}{ \mathbb{E}_{\mathcal{D},y} \left\[ (y - f(x)) \right\] } 
 $$
   
