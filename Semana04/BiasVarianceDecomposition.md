@@ -21,7 +21,7 @@ $$
 $$
 
 $$
-\mathbb{E}
+\mathbb{E}_d
 $$
 
 $$
