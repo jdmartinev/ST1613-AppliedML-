@@ -21,6 +21,10 @@ $$
 $$
 
 $$
+\mathbb{E}
+$$
+
+$$
 \mathbb{E}_{\mathcal{D},y} = {(y - \hat{f}_(y - \hat{f}(\mathbf{x}) ) ^2 }
 $$
   
