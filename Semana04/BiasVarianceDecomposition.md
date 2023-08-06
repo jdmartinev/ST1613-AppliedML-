@@ -21,7 +21,7 @@ $$
 $$
 
 $$
-\textcolor{blue}{ \mathbb{E}_{\mathcal{D},y} \left[ (y - \hat{f}_D(\mathbf{x})) \right] } 
+\textcolor{blue}{ \mathbb{E}_{\mathcal{D},y} \left[ (y - \hat{f}(\mathbf{x})) \right] } 
 $$
   
-das
+
