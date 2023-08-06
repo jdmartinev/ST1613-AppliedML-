@@ -23,3 +23,4 @@ $$
 $$
 {\mathcal{D},y} = \left{ \left(y - \hat{f}_(y - \hat{f}(\mathbf{x}) \right) ^2 \right}
 $$
+  
