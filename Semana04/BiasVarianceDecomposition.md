@@ -20,4 +20,6 @@ $$
 \textcolor{blue}{error(\mathbf{x})} = \textcolor{purple}{bias(\mathbf{x})^2} + \textcolor{orange}{Var\left[\hat{f}_{\mathcal{D}}(\mathbf{x})\right]}
 $$
 
-
+$$
+\mathbb{E}_{\mathcal{D},y} = \left{(y - \hat{f}_{\mathcal{D}})(\mathbf{x})^2 \right}
+$$
