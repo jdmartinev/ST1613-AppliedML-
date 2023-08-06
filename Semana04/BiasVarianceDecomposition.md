@@ -4,4 +4,4 @@ La descomposición en __sesgo__ y __varianza__ se puede escribir de la siguiente
 
 \[
 error(\mathbf{x}) = bias(\mathbf{x})^2 + Var\left[\hat{f}_{\mathcal{D}}(\mathbf{x})\right]
-\[
+\]
